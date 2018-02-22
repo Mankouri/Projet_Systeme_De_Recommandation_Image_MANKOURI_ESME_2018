@@ -1,0 +1,9 @@
+
+Répertoire du projet:
+cd mnt/c/Users/rushi/Desktop/Projet
+
+Récupérer une image depuis le web et la mettre dans le dossier tmp
+wget -O URL /tmp/NomDeVotreFichier.jpg
+
+Classifier des images à l'aide de tags grace à tensorflow
+python classify.py /tmp/*
