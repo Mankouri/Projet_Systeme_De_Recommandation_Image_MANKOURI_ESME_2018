@@ -1,8 +1,11 @@
 #!/usr/bin/env python
 
 #   MANKOURI Jalil - 3CI
+#   $ cd /mnt/c/Users/rushi/Desktop/Projet/tools/
 #   $ wget -O /tmp/cat.jpg https://farm6.staticflickr.com/5470/9372235876_d7d69f1790_b.jpg
 #   $ python classify.py /tmp/cat.jpg
+
+# Presentation python classify.py /mnt/c/img/*
 
 from __future__ import absolute_import
 from __future__ import division
